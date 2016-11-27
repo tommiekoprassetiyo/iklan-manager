@@ -21,4 +21,4 @@ IKMAN ( IKlan MANager ) di buat untuk memudahkan management Iklan dengan Baik da
 
 ## MIT License
 
-© 2016 by @tommyekoprassetiyo
+© 2016 by @tommiekoprassetiyo
