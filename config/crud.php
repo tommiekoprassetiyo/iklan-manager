@@ -23,7 +23,7 @@ class crud
 			$query = $this->db->prepare ("CREATE TABLE $tableikman (
 	                id int AUTO_INCREMENT PRIMARY KEY,
 	                tanggal date NOT NULL,
-	                judul varchar(40) NOT NULL,
+	                judul text NOT NULL,
 	                link text NOT NULL,
 	                status varchar(20) )");
 	    	$query->execute();
